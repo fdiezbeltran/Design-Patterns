@@ -1,2 +1,2 @@
 # Patrones-De-Disenio
-Ejemplos practicos de patrones de diseño para programacion orientada a objetos.
+Ejemplos practicos de patrones de diseño para programacion orientada a objetos aplicados en Unity.
